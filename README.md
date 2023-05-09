@@ -15,4 +15,4 @@ https://user-images.githubusercontent.com/122117065/236726016-8c54602b-4f9d-400c
 
 
 <h2>notice</h2>
-This project by jcampanile is lisensed under the MIT license.
+This project by jcampanile is licensed under the MIT license.
